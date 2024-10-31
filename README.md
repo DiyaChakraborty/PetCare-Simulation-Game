@@ -9,13 +9,15 @@ This project is a fun and interactive pet care simulation game that allows users
 The main objectives of this project are to create an engaging experience for users, illustrate the practical application of Object-Oriented Programming (OOP), and demonstrate the functionality of virtual pet care mechanics.
 
 ## Functionalities
-- **Adoption of Pets**: Users can choose from different types of pets (Dog, Cat, Bird).
-- **Pet Management**: Players can feed, play, and rest their pets, impacting their stats.
-- **Random Events**: Introduces dynamic interactions to keep the game interesting.
-- **Leveling System**: Pets can level up based on their health and happiness.
+- **Pet Adoption**: Choose from a dog, cat, or bird.
+- **Pet Care**: Feed, train, and rest your pet to maintain its happiness and health.
+- **Random Events**: Experience surprise events that affect your pet's status.
+- **Shopping Experience**: Purchase treats, toys, or medicine for your pet.
+- **Save/Load Feature**: Store and retrieve pet status to continue the adventure.
 
 ## Tech Stacks Used
 - **Programming Language**: C++
+- **File Management**: File I/O for saving and loading pet status
 - **Libraries**: Standard Libraries (iostream, string, ctime, cstdlib)
 - **Development Environment**: Visual Studio Code
 
@@ -23,7 +25,6 @@ The main objectives of this project are to create an engaging experience for use
 This pet care simulation game serves as a great example of applying OOP concepts in a practical scenario, providing users with an enjoyable gaming experience.
 
 ## Future Development
-Future enhancements may include:
-- Adding more pet types and breeds.
-- Implementing a graphical user interface (GUI) for a more immersive experience.
-- Introducing additional features like training and competitions.
+- **Multiplayer Mode**: Enable players to interact with each other's pets.
+- **Expanded Pet Types**: Introduce more pet varieties with unique traits.
+- **Enhanced Graphics**: Incorporate graphical elements using SFML for a richer user experience.
