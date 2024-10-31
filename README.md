@@ -1,4 +1,6 @@
-# Pet Care Simulation Game
+# Pet Care Simulation Game 🎮
+
+![pet care simulation game](https://github.com/DiyaChakraborty/pet-game-/blob/be362dcf5486957b17e40a39334281d2fae83a48/Screenshot%202024-10-31%20150150.png)
 
 ## Project Overview
 This project is a fun and interactive pet care simulation game that allows users to adopt and take care of virtual pets. Players can feed, play with, and rest their pets while managing their health, hunger, and happiness levels.
