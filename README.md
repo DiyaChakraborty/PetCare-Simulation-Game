@@ -6,7 +6,7 @@
 This project is a fun and interactive pet care simulation game that allows users to adopt and take care of virtual pets. Players can feed, play with, and rest their pets while managing their health, hunger, and happiness levels.
 
 ## Objectives
-The main objectives of this project are to create an engaging experience for users, teach basic principles of Object-Oriented Programming (OOP), and demonstrate the functionality of virtual pet care mechanics.
+The main objectives of this project are to create an engaging experience for users, illustrate the practical application of Object-Oriented Programming (OOP), and demonstrate the functionality of virtual pet care mechanics.
 
 ## Functionalities
 - **Adoption of Pets**: Users can choose from different types of pets (Dog, Cat, Bird).
